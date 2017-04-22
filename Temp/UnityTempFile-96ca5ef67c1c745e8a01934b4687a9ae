@@ -130,6 +130,7 @@
 'Assets/PostProcessing/Runtime/Utils/GraphicsUtils.cs'
 'Assets/PostProcessing/Runtime/Utils/MaterialFactory.cs'
 'Assets/PostProcessing/Runtime/Utils/RenderTextureFactory.cs'
+'Assets/Scripts/Camera/CameraFollow.cs'
 'Assets/Scripts/Enemy/EnemyAttack.cs'
 'Assets/Scripts/Enemy/EnemyHealth.cs'
 'Assets/Scripts/Enemy/EnemyMovement.cs'
